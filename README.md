@@ -1,7 +1,3 @@
-# Elegant_Calculator
-Features - 
-1) Responsive UI.
-2) It can perform all basic operations.
-3) IOS like UI.
+Breakout 10 calculator
 
-[![Calculator-Screenshot.png](https://i.postimg.cc/nzqysW22/Calculator-Screenshot.png)](https://postimg.cc/phXG4qg5)
+1. Mirza Zarqani Rayhan(TI-3F/17/1841720205)
